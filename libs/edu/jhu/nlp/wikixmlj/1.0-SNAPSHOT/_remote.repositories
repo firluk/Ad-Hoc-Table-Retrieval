@@ -1,0 +1,8 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Jul 01 21:50:36 IDT 2020
+wikixmlj-1.0-SNAPSHOT-javadoc.jar>=
+wikixmlj-1.0-SNAPSHOT.jar>local-repo=
+wikixmlj-1.0-SNAPSHOT.pom>local-repo=
+wikixmlj-1.0-SNAPSHOT.pom>=
+wikixmlj-1.0-SNAPSHOT-sources.jar>=
+wikixmlj-1.0-SNAPSHOT.jar>=
